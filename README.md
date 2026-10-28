@@ -2,7 +2,7 @@
 
 ### AI Engineer | Machine Learning Engineer | NLP & LLM Engineer
 
-Computer Science graduate from Umm Al-Qura University (GPA 3.61/4.00, Second Class Honors). I work across Artificial Intelligence, Machine Learning, and Natural Language Processing, with a focus on fine-tuning and evaluating Large Language Models (LLMs), building computer vision systems, and developing scalable data pipelines.
+Computer Science graduate from Umm Al-Qura University (Second Class Honors). I work across Artificial Intelligence, Machine Learning, and Natural Language Processing, with a focus on fine-tuning and evaluating Large Language Models (LLMs), building computer vision systems, and developing scalable data pipelines.
 
 I'm passionate about building automated, production-grade AI systems and agentic workflows, and applying my machine learning and Arabic NLP experience to real-world solutions.
 
