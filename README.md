@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yazeed Iskandar 👋
 
-<!--
-**yazeex/yazeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Machine Learning Engineer | NLP & LLM Engineer
 
-Here are some ideas to get you started:
+Computer Science graduate from Umm Al-Qura University (GPA 3.61/4.00, Second Class Honors). I work across Artificial Intelligence, Machine Learning, and Natural Language Processing, with a focus on fine-tuning and evaluating Large Language Models (LLMs), building computer vision systems, and developing scalable data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building automated, production-grade AI systems and agentic workflows, and applying my machine learning and Arabic NLP experience to real-world solutions.
+
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python, SQL, Java
+- **NLP & LLMs:** Hugging Face Transformers, LLM Evaluation, Prompt Engineering
+- **Computer Vision:** YOLO, MobileNetV2, OpenCV, OCR Evaluation
+- **Agents & Automation:** Ollama, n8n, Flowise
+- **Tools:** Git, GitHub, Linux, Docker, Jupyter Notebook
+
+## 📫 Contact
+
+- LinkedIn: [Yazeed Iskandar](https://linkedin.com/in/your-profile)
+- Email: yazeediskandar@gmail.com
+- LinkedIn: [Yazeed Iskandar](https://www.linkedin.com/in/yazeed-iskandar/)
+- Email: yazeediskandar@gmail.com
