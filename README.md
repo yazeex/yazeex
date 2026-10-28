@@ -16,7 +16,5 @@ I'm passionate about building automated, production-grade AI systems and agentic
 
 ## 📫 Contact
 
-- LinkedIn: [Yazeed Iskandar](https://linkedin.com/in/your-profile)
-- Email: yazeediskandar@gmail.com
 - LinkedIn: [Yazeed Iskandar](https://www.linkedin.com/in/yazeed-iskandar/)
 - Email: yazeediskandar@gmail.com
